@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Wireless Headphones",
+    "price": 1999,
+    "image": "https://images.pexels.com/photos/5269735/pexels-photo-5269735.jpeg",
+    "description": "High quality wireless headphones with deep bass",
+    "category": "electronics"
+  },
+  {
+    "id": "2",
+    "title": "Smart Watch",
+    "price": 2999,
+    "image": "https://images.pexels.com/photos/31541471/pexels-photo-31541471.jpeg",
+    "description": "Modern smartwatch with fitness tracking",
+    "category": "electronics"
+  },
+  {
+    "id": "3",
+    "title": "Running Shoes",
+    "price": 2499,
+    "image": "https://images.pexels.com/photos/135229/pexels-photo-135229.jpeg",
+    "description": "Comfortable running shoes",
+    "category": "shoes"
+  },
+  {
+    "id": "4",
+    "title": "Laptop Backpack",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+    "description": "Durable everyday backpack",
+    "category": "electronics"
+  },
+  {
+    "id": "5",
+    "title": "Bluetooth Speaker",
+    "price": 1799,
+    "image": "https://images.pexels.com/photos/34241799/pexels-photo-34241799.jpeg",
+    "description": "Portable bluetooth speaker",
+    "category": "electronics"
+  },
+  {
+    "id": "6",
+    "title": "Gaming Mouse",
+    "price": 899,
+    "image": "https://images.pexels.com/photos/33149947/pexels-photo-33149947.jpeg",
+    "description": "High precision gaming mouse",
+    "category": "electronics"
+  },
+
+  {
+    "id": "7",
+    "title": "Bluetooth keyboard",
+    "price": 1499,
+    "image": "https://images.pexels.com/photos/32768000/pexels-photo-32768000.jpeg",
+    "description": "Portable bluetooth keyboard",
+    "category": "electronics"
+  },
+
+  {
+    "id": "8",
+    "title": "Gaming laptop",
+    "price": 49999,
+    "image": "https://images.pexels.com/photos/7988114/pexels-photo-7988114.jpeg",
+    "description": "High quality gaming laptop",
+    "category": "electronics"
+  }
+]

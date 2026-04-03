@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/providers/order_provider.dart';
 import 'package:flutter_application_1/providers/theme_provider.dart';
+import 'package:flutter_application_1/screens/auth_check_screen.dart';
 import 'package:provider/provider.dart';
 import 'providers/wishlist_provider.dart';
 import 'providers/cart_provider.dart';
@@ -53,7 +54,7 @@ class MyApp extends StatelessWidget {
                 : ThemeMode.light,
 
             /// START SCREEN
-            home: const LoginScreen(),
+            home: const AuthCheckScreen(),
 
             /// ROUTES
             routes: {

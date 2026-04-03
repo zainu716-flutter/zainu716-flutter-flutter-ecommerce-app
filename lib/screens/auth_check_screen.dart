@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter_application_1/screens/product_list_screen.dart';
 import 'login_screen.dart';
 import 'home_screen.dart'; // your main screen
 
@@ -22,7 +23,7 @@ class AuthCheckScreen extends StatelessWidget {
 
         /// ✅ User logged in
         if (snapshot.hasData) {
-          return const HomeScreen(); // 👉 GO HOME
+          return const ProductListScreen(); // 👉 GO HOME
         }
 
         /// ❌ Not logged in
